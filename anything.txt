@@ -1,3 +1,7 @@
 literallyanything
+<<<<<<< HEAD
 AlmostSomething
 Play pokemon go plz
+=======
+AlmostSomething
+>>>>>>> main
